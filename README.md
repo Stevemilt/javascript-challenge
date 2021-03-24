@@ -6,6 +6,9 @@ JavaScript and DOM manipulation
   * Created a website showing the information in a table format.
   * Provided a filter search with multiple filter options using D3 and jQuery.
 
+## Tools used
+HTML, JavaScript, CSS, D3.js
+
 ## Screeshots
 
 ![image](https://user-images.githubusercontent.com/68937366/112245634-3b1d0600-8c8c-11eb-9c03-6de13d6e147c.png)
