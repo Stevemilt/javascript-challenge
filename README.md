@@ -7,7 +7,10 @@ JavaScript and DOM manipulation
   * Provided a filter search with multiple filter options using D3 and jQuery.
 
 ## Tools used
-HTML, JavaScript, CSS, D3.js
+ * HTML 
+ * JavaScript
+ * CSS
+ * D3.js
 
 ## Screeshots
 
